@@ -1,6 +1,8 @@
 # SetelTest
 Petronas Setel Assessment. 
+
 This is the Assessment Repo for Setel!
+
 Technology stacks utilized: Java, Appium, Junit
 
 For the android emulator, device used is - Pixel_2_API_28 with an Android version of "9.0".
